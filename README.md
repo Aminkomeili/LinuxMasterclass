@@ -17,6 +17,9 @@ LinuxMasterclass یک ریپازیتوری است که به شما کمک می�
 ## آموزش‌ها
 
 در این بخش، آموزش‌های گسترده‌ای راجع به موضوعات مختلف لینوکس خواهید یافت. از ترفندهای خط فرمان تا وظایف مدیریت سیستم، این آموزش‌ها شما را از طریق مفاهیم مرتبط همراهی می‌کنند و به شما کمک می‌کنند تجربه‌های عملی به دست آورید.
+
+*  [مراحل بالا آمدن لینوکس ](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/%D9%86%D8%AD%D9%88%D9%87%20%DB%8C%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%A7%D9%85%D8%AF%D9%86%20%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3.md)
+  
 * [دستور systemctl و سوییچ های مهم آن](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/systemctl%20%DA%86%DB%8C%D8%B3%D8%AA.md)
 
 * [انواع unit-type در systemctl](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20unit-type%20%D8%AF%D8%B1%20systemctl.md)
@@ -26,6 +29,7 @@ LinuxMasterclass یک ریپازیتوری است که به شما کمک می�
 * [انواع  runlevel در sysV](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20runlevel%20%D8%AF%D8%B1%20sysV.md)
   
 * [دستورمهم journalctl](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%20journalctl%20%DA%86%DB%8C%D8%B3%D8%AA.md)
+
 
 ## ابزارها
 
