@@ -1,31 +1,31 @@
 # LinuxMasterclass
 
-LinuxMasterclass is a curated repository aimed at helping you improve your Linux skills and become a proficient Linux user and administrator. Whether you are a beginner or have some experience with Linux, this repository offers a diverse collection of resources, tutorials, and tools to elevate your knowledge and expertise.
+LinuxMasterclass یک ریپازیتوری انتخاب‌شده است که به شما کمک می‌کند تا مهارت‌های لینوکس خود را بهبود بخشیده و به یک کاربر و مدیر ماهر لینوکس تبدیل شوید. اگر هنوز تازه‌کار هستید یا تجربه‌ای با لینوکس دارید، این ریپازیتوری مجموعه‌ای گوناگون از منابع، آموزش‌ها و ابزارها را ارائه می‌دهد که به شما در افزایش دانش و مهارت‌های فنی کمک می‌کند.
 
-## Table of Contents
+## فهرست مطالب
 
-- [Getting Started](#getting-started)
-- [Tutorials](#tutorials)
-- [Tools](#tools)
-- [Contributing](#contributing)
-- [License](#license)
+- [شروع کار](#شروع-کار)
+- [آموزش‌ها](#آموزش‌ها)
+- [ابزارها](#ابزارها)
+- [مشارکت](#مشارکت)
+- [مجوز](#مجوز)
 
-## Getting Started
+## شروع کار
 
-If you're new to Linux, start here! This section will provide you with introductory materials and guides to help you set up your Linux environment, understand essential commands, and get familiar with the Linux ecosystem.
+اگر تازه با لینوکس آشنا هستید، از اینجا شروع کنید! این بخش مطالب مقدماتی و راهنماهایی را فراهم می‌کند که به شما کمک می‌کند محیط لینوکس خود را راه‌اندازی کنید، دستورات اساسی را درک کنید و با اکوسیستم لینوکس آشنا شوید.
 
-## Tutorials
+## آموزش‌ها
 
-In this section, you will find in-depth tutorials covering various topics related to Linux. From command-line tricks to system administration tasks, these tutorials will walk you through the concepts step-by-step and help you gain practical knowledge.
+در این بخش، آموزش‌های گسترده‌ای راجع به موضوعات مختلف لینوکس خواهید یافت. از ترفندهای خط فرمان تا وظایف مدیریت سیستم، این آموزش‌ها شما را از طریق مفاهیم مرتبط همراهی می‌کنند و به شما کمک می‌کنند تجربه‌های عملی به دست آورید.
 
-## Tools
+## ابزارها
 
-Explore a selection of useful tools and utilities for Linux users and administrators. These tools range from productivity enhancers to system monitoring and management utilities. Feel free to suggest your favorite tools and contribute to this list.
+در این بخش، با مجموعه‌ای از ابزارها و امکانات مفید برای کاربران و مدیران لینوکس آشنا می‌شوید. این ابزارها از افزایش بهره‌وری تا نظارت و مدیریت سیستمی متنوع هستند. به آزادی اضافه کردن ابزارهای مورد علاقه خود و مشارکت در این لیست دسترسی دارید.
 
-## Contributing
+## مشارکت
 
-We welcome contributions from the community! If you have a useful Linux tip, a helpful tutorial, or a new tool to share, please feel free to contribute. Fork this repository, make your changes, and submit a pull request. Your contributions will help others in their Linux learning journey.
+مشارکت شما از جامعه بسیار مهم است! اگر شما یک راهنمایی مفید لینوکس، آموزش مفید یا ابزار جدیدی دارید که می‌خواهید به اشتراک بگذارید، خوشحال می‌شویم که به ما کمک کنید. این ریپازیتوری را Fork کنید، تغییرات خود را اعمال کنید و Pull Request بفرستید. مشارکت شما به دیگران در مسیر یادگیری لینوکس کمک خواهد کرد.
 
-## License
+## مجوز
 
-The content in this repository is licensed under the [GPL-3.0 license](LICENSE). You are free to use, modify, and distribute the material for personal or commercial purposes. Please refer to the LICENSE file for more details.
+محتوای این ریپازیتوری تحت [مجوز MIT](LICENSE) منتشر شده‌است. شما مجاز هستید از این مواد برای مقاصد شخصی یا تجاری استفاده کنید، آنها را تغییر دهید و یا توزیع کنید. جهت اطلاعات بیشتر به پرونده مجوز مراجعه کنید.
