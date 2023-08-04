@@ -21,7 +21,7 @@ LinuxMasterclass یک ریپازیتوری است که به شما کمک می�
 *  [مراحل بالا آمدن لینوکس ](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/Week%201/%D9%86%D8%AD%D9%88%D9%87%20%DB%8C%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%A7%D9%85%D8%AF%D9%86%20%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3.md)
 *  [انواع دایرکتوری در لینوکس](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/Week%201/%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D8%AF%D8%A7%DB%8C%D8%B1%DA%A9%D8%AA%D9%88%D8%B1%DB%8C.md)
   
-* [دستور systemctl و سوییچ های مهم آن](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/systemctl%20%DA%86%DB%8C%D8%B3%D8%AA.md)
+* [دستور systemctl و سوییچ های مهم آن](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/Week%201/systemctl%20%DA%86%DB%8C%D8%B3%D8%AA.md)
 
 * [انواع unit-type در systemctl](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/Week%201/%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20unit-type%20%D8%AF%D8%B1%20systemctl.md)
 
