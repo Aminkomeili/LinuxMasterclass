@@ -19,6 +19,8 @@ LinuxMasterclass یک ریپازیتوری است که به شما کمک می�
 در این بخش، آموزش‌های گسترده‌ای راجع به موضوعات مختلف لینوکس خواهید یافت. از ترفندهای خط فرمان تا وظایف مدیریت سیستم، این آموزش‌ها شما را از طریق مفاهیم مرتبط همراهی می‌کنند و به شما کمک می‌کنند تجربه‌های عملی به دست آورید.
 * [دستور systemctl و سوییچ های مهم آن](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/what-is-systemctl.md)
 
+* [انواع unit-type در systemctl](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20unit-type%20%D8%AF%D8%B1%20systemctl.md)
+
 * [انواع target در systemd](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/target-type-in-systemd.md)
 
 * [انواع  runlevel در sysV](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/runlevels-in-sysv.md)
