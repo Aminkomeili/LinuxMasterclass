@@ -23,7 +23,7 @@ LinuxMasterclass یک ریپازیتوری است که به شما کمک می�
   
 * [دستور systemctl و سوییچ های مهم آن](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/systemctl%20%DA%86%DB%8C%D8%B3%D8%AA.md)
 
-* [انواع unit-type در systemctl](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20unit-type%20%D8%AF%D8%B1%20systemctl.md)
+* [انواع unit-type در systemctl](Week 1/systemctl چیست.md)
 
 * [انواع target در systemd](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%20target%20%D8%AF%D8%B1%20systemctl.md)
 
