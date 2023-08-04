@@ -18,7 +18,7 @@ LinuxMasterclass یک ریپازیتوری است که به شما کمک می�
 
 در این بخش، آموزش‌های گسترده‌ای راجع به موضوعات مختلف لینوکس خواهید یافت. از ترفندهای خط فرمان تا وظایف مدیریت سیستم، این آموزش‌ها شما را از طریق مفاهیم مرتبط همراهی می‌کنند و به شما کمک می‌کنند تجربه‌های عملی به دست آورید.
 
-* [انواع تارگت ها در systemd](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/target-type-in-systemd.md)
+* [انواع target در systemd](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/target-type-in-systemd.md)
 
 * [انواع  runlevel در sysV](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/runlevels-in-sysv.md)
 
