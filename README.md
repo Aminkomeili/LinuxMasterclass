@@ -28,4 +28,4 @@ We welcome contributions from the community! If you have a useful Linux tip, a h
 
 ## License
 
-The content in this repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the material for personal or commercial purposes. Please refer to the LICENSE file for more details.
+The content in this repository is licensed under the [GPL-3.0 license](LICENSE). You are free to use, modify, and distribute the material for personal or commercial purposes. Please refer to the LICENSE file for more details.
