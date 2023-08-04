@@ -23,7 +23,7 @@ LinuxMasterclass یک ریپازیتوری است که به شما کمک می�
 
 * [انواع target در systemd](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/target-type-in-systemd.md)
 
-* [انواع  runlevel در sysV](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/runlevels-in-sysv.md)
+* [انواع  runlevel در sysV](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20runlevel%20%D8%AF%D8%B1%20sysV.md)
 
 ## ابزارها
 
