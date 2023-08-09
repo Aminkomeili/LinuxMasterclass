@@ -32,6 +32,8 @@
 * [دستورمهم journalctl](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/Week%201/%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%20journalctl%20%DA%86%DB%8C%D8%B3%D8%AA.md)
 
 * [.ا LVM چیست ؟ ](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/Week%201/LVM%20%DA%86%DB%8C%D8%B3%D8%AA.md)
+  
+* [Grub نکات](https://github.com/Aminkomeili/LinuxMasterclass/blob/main/Week%201/Grub.md)
 
 
 ## ابزارها
